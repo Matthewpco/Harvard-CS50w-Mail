@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Matthewpco/Harvard-CS50w-Commerce/main/cs50-commerce.png)
+![](https://raw.githubusercontent.com/Matthewpco/Harvard-CS50w-Mail/main/cs50-mail-1.png)
 
 # CS50w Mail Single Page Application
 
@@ -19,4 +19,4 @@
 - SQLite
 
 
-![](https://raw.githubusercontent.com/Matthewpco/Harvard-CS50w-Commerce/main/cs50-commerce-watchlist.png)
+![](https://raw.githubusercontent.com/Matthewpco/Harvard-CS50w-Mail/main/cs50-mail-2.png)
